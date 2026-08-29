@@ -1,0 +1,2 @@
+# -AutoBD-Multi-Pillar-Car-Marketplace-Reconditioned-Import-Platform-
+AutoBD is a comprehensive web platform unifying the four ways Bangladeshi buyers acquire  cars new dealership purchases, p2p used car transactions, Japanese  reconditioned vehicle imports via auction, aftermarket modification sourcing  into a single trusted marketplace with a consistent, cost calculation engine running across all four pillars.  
