@@ -1,0 +1,9 @@
+{
+  "/(app)/new-cars/page": "app/(app)/new-cars/page.js",
+  "/(app)/page": "app/(app)/page.js",
+  "/(app)/used-cars/[id]/page": "app/(app)/used-cars/[id]/page.js",
+  "/(app)/used-cars/page": "app/(app)/used-cars/page.js",
+  "/(app)/used-cars/seller/page": "app/(app)/used-cars/seller/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/login/page": "app/login/page.js"
+}
